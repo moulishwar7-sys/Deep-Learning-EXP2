@@ -13,7 +13,8 @@ model that can classify a given iris flower into one of these three species base
 
 **Neural Network Model**
 
-Include the neural network model diagram.
+<img width="779" height="607" alt="Screenshot 2025-09-21 124902" src="https://github.com/user-attachments/assets/44a0cdfc-69ad-4a44-9fb2-7efd00509346" />
+
 
 **DESIGN STEPS**
 
@@ -33,48 +34,45 @@ Write your own steps
 
 **PROGRAM**
 
-**Name:**
+**Name: Moulishwar G**
 
-**Register Number:**
+**Register Number: 2305001020**
 
-class IrisClassifier(nn.Module):
-     
-     def __init__(self, input_size):
-      
-       super(IrisClassifier, self).__init__()
-       
-        #Include your code here
-
-    def forward(self, x):
-       
-        #Include your code here
-
-     #Initialize the Model, Loss Function, and Optimizer
-
-     def train_model(model, train_loader, criterion, optimizer, epochs):
-   
-     #Include your code here
 
 **Dataset Information**
 
-Include screenshot of the dataset.
+<img width="800" height="191" alt="Screenshot 2025-09-21 125301" src="https://github.com/user-attachments/assets/4615f1a5-0efa-4588-ab7a-2f21029d9bb1" />
 
 
-**OUTPUT**
 
-**Confusion Matrix**
+**OUTPUT:**
 
-Include confusion matrix here
+Training Loss,Validation Loss VS Iteration Plot:
+
+
+<img width="807" height="602" alt="Screenshot 2025-09-21 125312" src="https://github.com/user-attachments/assets/47f13233-a3e3-48a7-8fed-3dccd1ead469" />
+
+
 
 **Classification Report**
 
-Include classification report here
+<img width="748" height="280" alt="Screenshot 2025-09-21 125323" src="https://github.com/user-attachments/assets/4d446a54-211d-45d8-aa10-6a363d904adf" />
+
+
+**Confusion Matrix**
+
+<img width="295" height="133" alt="Screenshot 2025-09-21 125329" src="https://github.com/user-attachments/assets/c6b8a7a2-9138-45db-aed3-351fc15732e2" />
+
+
+
 
 **New Sample Data Prediction**
 
-Include your sample input and output here
+
+<img width="807" height="301" alt="Screenshot 2025-09-21 125337" src="https://github.com/user-attachments/assets/ee71f40b-4abd-47a4-9ddc-f4c6bf78c921" />
+
 
 **RESULT**
 
-Include your result here
 
+Thus a neural network classification model is developed for the given dataset.
