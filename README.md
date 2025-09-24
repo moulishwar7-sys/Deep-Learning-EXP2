@@ -18,20 +18,27 @@ model that can classify a given iris flower into one of these three species base
 
 **DESIGN STEPS**
 
-**STEP 1:**
+**STEP 1: Import necessary libraries.**
 
-Write your own steps
+**STEP 2: Load the dataset "customers.csv"**
 
-**STEP 2:**
+**STEP 3: Analyse the dataset and drop the rows which has null values.**
 
-**STEP 3:**
+**STEP 4: Use encoders and change the string datatypes in the dataset.**
 
-**STEP 4:**
+**STEP 5: Calculate correlation matrix ans plot heatmap and analyse the data.**
 
-**STEP 5:**
+**STEP 6: Use various visualizations like pairplot,displot,countplot,scatterplot and visualize the data.**
 
-**STEP 6:**
+**STEP 7: Split the dataset into training and testing data using train_test_split.**
 
+**STEP 8: Create a neural network model with 2 hidden layers and output layer with four neurons representing multi-classification.**
+
+**STEP 9: Compile and fit the model with the training data**
+
+**STEP 10: Validate the model using training data.**
+
+**STEP 11: Evaluate the model using confusion matrix.**
 **PROGRAM**
 ```
 import pandas as pd
