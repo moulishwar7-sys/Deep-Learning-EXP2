@@ -196,7 +196,8 @@ print(le.inverse_transform(x_single_prediction))
 
 **Dataset Information**
 
-<img width="800" height="191" alt="Screenshot 2025-09-21 125301" src="https://github.com/user-attachments/assets/4615f1a5-0efa-4588-ab7a-2f21029d9bb1" />
+
+<img width="1018" height="291" alt="Screenshot 2025-09-30 091244" src="https://github.com/user-attachments/assets/31bbcc19-fddc-4959-aa0b-e2db584425db" />
 
 
 
@@ -211,20 +212,21 @@ Training Loss,Validation Loss VS Iteration Plot:
 
 **Classification Report**
 
-<img width="748" height="280" alt="Screenshot 2025-09-21 125323" src="https://github.com/user-attachments/assets/4d446a54-211d-45d8-aa10-6a363d904adf" />
+<img width="611" height="250" alt="Screenshot 2025-09-30 091128" src="https://github.com/user-attachments/assets/081b4af4-c364-4ae8-878a-2fa768400d76" />
+
 
 
 **Confusion Matrix**
 
-<img width="295" height="133" alt="Screenshot 2025-09-21 125329" src="https://github.com/user-attachments/assets/c6b8a7a2-9138-45db-aed3-351fc15732e2" />
+<img width="311" height="110" alt="Screenshot 2025-09-30 091135" src="https://github.com/user-attachments/assets/6f6a7844-bf18-4ff9-a4a1-054d162af5f2" />
 
 
 
 
 **New Sample Data Prediction**
 
+<img width="1002" height="361" alt="Screenshot 2025-09-30 091146" src="https://github.com/user-attachments/assets/ee289f76-4a40-40fd-8461-75ef27e52d12" />
 
-<img width="807" height="301" alt="Screenshot 2025-09-21 125337" src="https://github.com/user-attachments/assets/ee71f40b-4abd-47a4-9ddc-f4c6bf78c921" />
 
 
 **RESULT**
